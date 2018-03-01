@@ -2,3 +2,7 @@
 #date-pickerID {
   margin-left: 4%;
 }
+
+form[name="form01"] .error {
+  color: red;
+}
